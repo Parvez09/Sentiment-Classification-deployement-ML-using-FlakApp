@@ -1,2 +1,2 @@
-# Sentiment-Classification-deployement-ML-using-FlakApp
+# Sentiment-Classification-deployement-ML-using-FlaskApp
 Sentiment-Classification-Deployement-of-ML-model-using-Flask-WebAPP
